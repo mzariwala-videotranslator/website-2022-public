@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://videotranslator.ai/sitemap-0.xml
+Host: https://videotranslator.ai
